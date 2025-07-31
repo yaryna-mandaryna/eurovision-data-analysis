@@ -23,7 +23,7 @@ It analyzes how countries and performers shift in rankings over the years and id
 - A small group of countries consistently reached top positions across years, showing long-term competitive strength
 - Year-to-year placement shifts reveal that while many countries fluctuate, only a few show clear upward or downward trends
 - Winning the contest in consecutive years is extremely rare — achieved only five times in history by just a handful of countries
-
+ 
 ## 📁 Project Structure
 
 ```
