@@ -35,4 +35,6 @@ Eurovision/
 
 ---
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaryna-mandaryna/eurovision-data-analysis/blob/main/Eurovision_Git.ipynb)
+
 This project is a part of my personal data analytics portfolio. It was built for learning purposes and reflects my current level of proficiency with Python and data storytelling.
